@@ -19,3 +19,7 @@ provider "aws" {
 provider "aws" {
     region = "ap-south-1b"
 }
+
+provider "aws" {
+    region = "ap-south-2b"
+}
